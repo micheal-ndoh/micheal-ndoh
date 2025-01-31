@@ -16,9 +16,6 @@ Hello, I'm Micheal Ndoh, an enthusiastic IT professional with a passion for inno
 
 
 
-## Social Links
-You can reach me through the following medias:
-
 
 
  [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1128041830760587446)
