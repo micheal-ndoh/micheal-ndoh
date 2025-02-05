@@ -12,6 +12,7 @@ Hello, I'm Micheal Ndoh, an enthusiastic IT professional with a passion for inno
 ## GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micheal-ndoh)](https://github.com/micheal-ndoh/github-readme-stats)
+
 [![GitHub Streak](https://github-readme-stats.vercel.app/api?username=micheal-ndoh)](https://github.com/micheal-ndoh/github-readme-stats)\
 
 
