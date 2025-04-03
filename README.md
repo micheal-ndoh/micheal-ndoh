@@ -22,6 +22,12 @@ Hello, I'm **`Micheal Ndoh`**, an enthusiastic IT professional with a passion fo
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micheal-ndoh) 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/micheal-ndoh) 
 
+
+ 
+ <img src="https://raw.githubusercontent.com/BEPb/BEPb/output/github-contribution-grid-snake-dark.svg">
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=micheal-ndoh&theme=nord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
