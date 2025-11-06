@@ -6,6 +6,20 @@ You can click the Preview link to take a look at your changes.
 Hello, I'm **`Micheal Ndoh`**, an enthusiastic IT professional with a passion for innovation and growth. I'm excited to connect with like-minded individuals and explore opportunities to enhance my skills and knowledge.
 
 ## About Me
+
+Certified Fullstack Software Engineer | LPIC & Java Certified | Next.js, React, Java Expert
+
+Fullstack developer with LPIC and Oracle Java certifications, delivering robust, scalable applications through collaborative team environments. I specialize in end-to-end development from architecture and infrastructure to frontend polish and rigorous testing ensuring high-quality, production-ready solutions.
+
+**Core Expertise:**
+- **Frontend**: Next.js, React (hooks, SSR, optimization)
+- **Backend**: Java (Spring Boot, microservices), RESTful APIs
+- **DevOps & Infra**: Terraform (IaC), GitHub Actions/CI-CD
+- **Testing**: Unit, integration, E2E (Jest, JUnit)
+- **Collaboration**: Agile workflows, code reviews, cross-functional teams
+
+Shipping maintainable code for web apps, enterprise systems, and cloud-native projects. Let’s build something reliable—together.
+
 * I'm currently pursuing my career in software engineering at [CLEMIOS](https://clemios.com/), where I'm honing my skills in software development and design.
 * I've recently deploy a mkdocs docker image package which contains notes and resources for LPIC 1 certification and can be accessed through my [GitHub repository](https://github.com/micheal-ndoh/MK_DOCS.git).
 * I'm eager to collaborate with fellow IT enthusiasts, learn from their experiences, and contribute to the growth of the tech community and also grow my experience.
