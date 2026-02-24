@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 ### Full Stack Software Engineer | Web, Native Mobile & Systems Architect
 **Certified Cloud (AWS) & Linux (LPIC-1) Professional**
 
-I am a performance-driven Software Engineer who builds from the kernel up to the cloud. I specialize in bridging the gap between polished **Frontend/Mobile interfaces** and robust, **Systems-level backends**. 
+I am a performance-driven Software Engineer who builds from the kernel up to the cloud. I specialize in bridging the gap between polished **Frontend/Mobile interfaces** and robust, **Systems-level backends**. Access my portfolio [here](https://ade-ndoh-micheal.vercel.app/)
 
 ---
 
