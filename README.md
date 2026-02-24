@@ -1,76 +1,46 @@
-# Hi, I'm Micheal Ndoh 👋 
+now update my github readme with some of the things I don't have on my readme
+<!---
+micheal-ndoh/micheal-ndoh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 
-### Full Stack Software Engineer | Web, Native Mobile & Systems Architect
-**Certified Cloud (AWS) & Linux (LPIC-1) Professional**
+Hello, I'm **`Micheal Ndoh`**, an enthusiastic IT professional with a passion for innovation and growth. I'm excited to connect with like-minded individuals and explore opportunities to enhance my skills and knowledge.
 
-I am a performance-driven Software Engineer who builds from the kernel up to the cloud. I specialize in bridging the gap between polished **Frontend/Mobile interfaces** and robust, **Systems-level backends**. 
+## About Me
 
----
+Certified Fullstack Software Engineer | LPIC & Java Certified | Next.js, React, Java Expert
 
-## 🚀 Key Focus Areas
-* 🦀 **Systems Engineering:** Building high-performance, async backend services and CLI tools using **Rust**.
-* 📱 **Native Mobile:** Architecting cross-platform mobile experiences with **React Native**.
-* 🌐 **Full Stack Web:** Expert-level **Next.js (App Router)**, React, and Type-safe API development.
-* ☁️ **Cloud & DevOps:** Professional infrastructure management using **AWS (CLF-C02)** and **Terraform (IaC)**.
-* 🐧 **Linux Specialist:** **LPIC-1 Certified** with a deep focus on Ubuntu kernel debugging and server hardening.
-* 🛠️ **Open Source:** Maintaining tools like **FibBot** (Rust) and **MK_DOCS** (Linux Study Resources).
+Fullstack developer with LPIC and Oracle Java certifications, delivering robust, scalable applications through collaborative team environments. I specialize in end-to-end development from architecture and infrastructure to frontend polish and rigorous testing ensuring high-quality, production-ready solutions.
 
----
+**Core Expertise:**
+- **Frontend**: Next.js, React (hooks, SSR, optimization)
+- **Backend**: Java (Spring Boot, microservices), RESTful APIs
+- **DevOps & Infra**: Terraform (IaC), GitHub Actions/CI-CD
+- **Testing**: Unit, integration, E2E (Jest, JUnit)
+- **Collaboration**: Agile workflows, code reviews, cross-functional teams
 
-## 🛠️ Technical Ecosystem
+Shipping maintainable code for web apps, enterprise systems, and cloud-native projects. Let’s build something reliable—together.
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | Rust, TypeScript, Java (Oracle Certified), Python, C, Solidity |
-| **Web & Mobile** | Next.js, React Native, React, Tailwind CSS, Shadcn UI, Framer Motion |
-| **Backend & Data** | Axum, Node.js (Nest.js), PostgreSQL (Drizzle/Prisma), Redis, Supabase |
-| **Cloud & DevOps** | AWS (Certified), Terraform, Docker, GitHub Actions, Linux (LPIC-1) |
-| **Enterprise** | Spring Boot, RESTful APIs, Better Auth, Tolgee (i18n), Stripe |
+* I'm currently pursuing my career in software engineering at [CLEMIOS](https://clemios.com/), where I'm honing my skills in software development and design.
+* I've recently deploy a mkdocs docker image package which contains notes and resources for LPIC 1 certification and can be accessed through my [GitHub repository](https://github.com/micheal-ndoh/MK_DOCS.git).
+* I'm eager to collaborate with fellow IT enthusiasts, learn from their experiences, and contribute to the growth of the tech community and also grow my experience.
+## GitHub Stats
 
----
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Marcjazz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=true" height="150" alt="languages graph"  />
+ 
 
-## 📈 GitHub Metrics
+[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=micheal-ndoh)](https://github.com/micheal-ndoh/github-readme-stats)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=micheal-ndoh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nord&hide_border=true" height="150" alt="languages graph" />
-  <img src="https://github-profile-trophy.vercel.app?username=micheal-ndoh&theme=nord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph" />
-</div>
+ [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1128041830760587446)
+ [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michaelndoh9@gmail.com) 
+ [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@michaelndoh)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/micheal-ndoh) 
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/micheal-ndoh) 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=micheal-ndoh&show_icons=true&theme=nord&hide_border=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=micheal-ndoh&theme=nord&hide_border=true" alt="GitHub Streak" />
-</div>
 
----
-
-## 📂 Featured Work & Links
-* 🏢 **Current Role:** Software Engineer Intern at [CLEMIOS](https://clemios.com/)
-* 📦 **Linux Resources:** [MK_DOCS Docker Package](https://github.com/micheal-ndoh/MK_DOCS.git) - Production-ready documentation for LPIC-1.
-* 🦀 **Rust Projects:** Check out my repositories for async processing and Fibonacci automation.
-* 🏆 **Verified Credentials:** [View my Certifications on Credly](https://www.credly.com/users/michael-ndoh.eeacc7e9)
-
----
-
-## 📫 Connect With Me
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/micheal-ndoh" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:michaelndoh9@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://discord.com/users/1128041830760587446">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="https://t.me/@michaelndoh">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-</div>
-
----
 
 <div align="center">
-  <img src="https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d" width="100%" alt="Header" />
+  <img src="https://github-profile-trophy.vercel.app?username=micheal-ndoh&theme=nord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
 </div>
+
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
