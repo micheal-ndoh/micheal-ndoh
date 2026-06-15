@@ -50,7 +50,7 @@ I am a performance-driven Software Engineer who builds from the kernel up to the
 ---
 
 ## 📂 Featured Work & Links
-* 🏢 **Current Role:** Software Engineer at [CLEMIOS](https://clemios.com/)
+* 🏢 **Current Role:** Junior Full Stack Software Engineer at Adorsys
 * 📦 **Linux Resources:** [MK_DOCS Docker Package](https://github.com/micheal-ndoh/MK_DOCS.git) - Production-ready documentation for LPIC-1.
 * 🦀 **Rust Projects:** Check out my repositories for async processing and Fibonacci automation.
 * 🏆 **Verified Credentials:** [View my Certifications on Credly](https://www.credly.com/users/michael-ndoh.eeacc7e9)
